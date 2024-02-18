@@ -11,3 +11,8 @@ important for a variety of stakeholders and health departments to accurately pre
 expenses using prediction models. The goal of this project is to properly analyze the patient’s data to
 design models to accurately predict the premium price and also observe significant characteristics of the
 data.
+
+
+
+## Report 
+Link: https://drive.google.com/file/d/1n3KMWWCnX6KtXV2KHdkZkKf7NDMNwJ6q/view?usp=sharing 
